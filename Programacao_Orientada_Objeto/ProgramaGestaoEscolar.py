@@ -1,9 +1,9 @@
 class Escola:
-    def __init__(self):
-        self.nome = None
-        self.idade = None
-        self.nota1 = None
-        self.nota2 = None
+    def __init__(self, nome, idade, nota1, nota2):
+        self.nome = nome
+        self.idade = idade
+        self.nota1 = nota1
+        self.nota2 = nota2
         self.media = None
 
     # Realiza inscrição dos alunos

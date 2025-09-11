@@ -16,7 +16,7 @@ namespace Introducao_C_Sharp
 
             // Exibindo os dados
             Console.WriteLine($"Pessoa 1: {p1.Nome} - {p1.Sobrenome} - {p1.Idade} anos.");
-            Console.WriteLine($"Pessoa 2: {p2.Nome} - {p2.Sobrenome} - {p1.Idade} anos.");
+            Console.WriteLine($"Pessoa 2: {p2.Nome} - {p2.Sobrenome} - {p2.Idade} anos.");
 
         }
     }
